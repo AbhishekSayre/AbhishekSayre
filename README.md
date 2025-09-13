@@ -8,7 +8,7 @@ Currently building a **Tour & Travels Booking System** using Django + MySQL + Bo
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on: **Tour & Travel Website**
-- 🌱 I’m currently learning: **AJAX, Power BI, Docker**
+- 🌱 I’m currently learning: ** Power BI, Docker**
 - 💬 Ask me about: **Django, Python, Web Development**
 - ⚡ Fun fact: I can debug better at midnight 🧠🌙
 - 📫 Reach me at: `getabhisheksayre@gmail.com`
